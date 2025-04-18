@@ -359,7 +359,7 @@ section {
         height: 50rem;
     }
     }
-    @media (max-width: 1024px) {
+    @media (max-width: 900px) {
 
         .icons img{
             margin: 2rem; /*Espaçamento entre eles*/
